@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:rgba(0, 0, 0, 0) linear-gradient(to right, rgb(230, 0, 255), rgb(13, 231, 242)) repeat scroll 0% 0%;
+}
+
+/* effects every button on page */
+button{
+  cursor: pointer;
+}
