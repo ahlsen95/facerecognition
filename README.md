@@ -1,3 +1,5 @@
+## GO TO https://my-facerecognition.herokuapp.com/ TO SEE THE DEPLOYED APPLICATION.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
